@@ -3,7 +3,7 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:flutter/gestures.dart';
 import 'package:url_launcher/url_launcher.dart';
 // import 'symptomsdata.dart';
-import 'preventiondata.dart';
+import '../data/preventiondata.dart';
 
 class PreventionPage extends StatefulWidget {
   @override

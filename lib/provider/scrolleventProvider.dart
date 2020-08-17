@@ -10,9 +10,4 @@ class Scrollevent with ChangeNotifier {
     _isscrooling = status;
     notifyListeners();
   }
-
-  // set setdirection(bool status) {
-  //   _isEnabled = status;
-  //   notifyListeners();
-  // }
 }
